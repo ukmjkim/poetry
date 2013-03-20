@@ -1,0 +1,3 @@
+This file is very pointless
+It is being added to test the rebasing etc
+Something about git
